@@ -14,4 +14,3 @@ happyHolidayTo(holiday, name) {
 holidayCountdown(days, holiday) {
   return `It's ${days} to ${holiday}!`
 }
-
