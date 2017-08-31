@@ -10,3 +10,8 @@ happyHolidaysTo(name) {
 happyHolidayTo(holiday, name) {
   return `Happy ${holiday}, ${name}!`
 }
+
+holidayCountdown(days, holiday) {
+  return `It's ${days} to ${holiday}!`
+}
+
